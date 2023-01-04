@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Jeonghun6"
-    url: https://jeonghun6.github.io/
+  - title: "POSTS"
+    url: /year-archive/
+  - title: "CATEGORY"
+    url: /categories/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
